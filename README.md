@@ -1,6 +1,6 @@
 # npmdoc-react-animate
 
-#### api documentation for  [react-animate (v3.0.0)](https://github.com/elierotenberg/react-animate)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-animate)
+#### basic api documentation for  [react-animate (v3.0.0)](https://github.com/elierotenberg/react-animate)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-animate)
 
 #### react-animate ============= Allows to animate parts of a React components programmatically, without bypassing React internals and without altering the DOM directly.
 
@@ -69,7 +69,8 @@
     "scripts": {
         "test": "gulp test"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
